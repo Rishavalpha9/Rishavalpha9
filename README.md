@@ -6,8 +6,8 @@ I'm a passionate Web Developer and Software Engineer currently studying in the F
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishav_kumarraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishavkumar99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishavkumarrajece@gmail.com) 
 
 # 🚀 About Me
-🎓 Final-year B.Tech CSE @ IIIT Bhagalpur
-💻 Ex-SDE Intern @ Neoned71 Tech Solutions – Qt/C++, Multithreading, SOLID
+🎓 Final-year B.Tech CSE @ IIIT Bhagalpur <br>
+💻 Ex-SDE Intern @ Neoned71 Tech Solutions – Qt/C++, Multithreading, SOLID 
 🔨 Currently building JobLex, a next-gen mobile-first campus recruitment platform
 ⚡ Solved 800+ DSA problems on LeetCode & GFG (Knight Rating: 1851)
 🏆 Finalist in 5+ national-level hackathons
