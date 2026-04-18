@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 HEY! Nice to see you:
 I'm a passionate Web Developer and Software Engineer currently studying in the Final year ECE at IIIT Bhagalpur (2022-26)
 
 
